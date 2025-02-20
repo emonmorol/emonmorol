@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 MERN Stack Developer.
 ---------------------
 
-I have a strong foundation in problem-solving and academic knowledge, complemented by hands-on experience working on numerous freelance projects and collaborating with startups. With expertise in React, Node.js, Express, and MongoDB.
+I have a strong foundation in problem-solving, MERN stack development, and academic knowledge, complemented by hands-on experience working on numerous freelance projects and collaborating with startups. With expertise in React, Node.js, Express, and MongoDB.
 
 * 🌍  I'm based in Dhaka, Bangladesh
 * 🖥️  See my portfolio at [MyPortfolio](http://ihmorol.vercel.app)
