@@ -1,6 +1,6 @@
 # Hi there! This is Ekramul Hasan
 
-### 🚀 MERN Stack Developer | Problem Solver | Lifelong Learner
+### CS Undergrad & UGA | Software & Systems Developer | Building Real-World Projects
 
 I’m a passionate full-stack developer with a strong foundation in **JavaScript**, **TypeScript**, and the **MERN stack** (MongoDB, Express.js, React, Node.js). My journey combines deep academic knowledge with real-world experience through freelance projects and startup collaborations. I enjoy solving complex problems and building scalable web applications with clean architecture.
 
