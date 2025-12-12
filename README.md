@@ -2,7 +2,10 @@
 
 ### CS Undergrad & UGA | Software & Systems Developer | Building Real-World Projects
 
-I’m a passionate full-stack developer with a strong foundation in **JavaScript**, **TypeScript**, and the **MERN stack** (MongoDB, Express.js, React, Node.js). My journey combines deep academic knowledge with real-world experience through freelance projects and startup collaborations. I enjoy solving complex problems and building scalable web applications with clean architecture.
+I am Ikramul Hasan, a final-year Computer Science undergraduate at United International University, specializing in full-stack web development, software engineering, and applied machine learning. I have strong academic performance with hands-on software development experience, research exposure, and a good track record in competitive programming and university project showcases.
+
+Throughout my undergraduate journey, I have worked extensively with the MERN stack, completed numerous real-world software projects, collaborated with teams, and supported university-level teaching responsibilities. 
+I also enjoy problem-solving and competitive programming, and I’ve solved 500+ problems on Codeforces and other online platforms.
 
 ---
 
