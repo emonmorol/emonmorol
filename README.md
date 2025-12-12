@@ -13,7 +13,7 @@ I also enjoy problem-solving and competitive programming, and I’ve solved 500+
 
 -   📍 Based in **Dhaka, Bangladesh**
 -   💻 Portfolio: [ihmorol.vercel.app](http://ihmorol.vercel.app)
--   📫 Email: [ekramulhasanmorol@gmail.com](mailto:ekramulhasanmorol@gmail.com)
+-   📫 Email: [ihmorol@gmail.com](mailto:ihmorol@gmail.com)
 
 ---
 
@@ -52,7 +52,7 @@ I also enjoy problem-solving and competitive programming, and I’ve solved 500+
   <a href="https://github.com/emonmorol" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/ekramul-hasan" target="_blank">
+  <a href="https://www.linkedin.com/in/ihmorol" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="36" alt="LinkedIn" />
   </a>
   <a href="https://dev.to/ekramul_hasan" target="_blank">
