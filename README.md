@@ -49,7 +49,7 @@ I also enjoy problem-solving and competitive programming, and I’ve solved 500+
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/emonmorol" target="_blank">
+  <a href="https://github.com/ihmorol" target="_blank">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/ihmorol" target="_blank">
@@ -65,13 +65,13 @@ I also enjoy problem-solving and competitive programming, and I’ve solved 500+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emonmorol&show_icons=true&theme=default&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihmorol&show_icons=true&theme=default&hide_border=true" width="400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emonmorol&theme=default&hide_border=true" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ihmorol&theme=default&hide_border=true" width="500" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonmorol&layout=compact&hide_border=true" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihmorol&layout=compact&hide_border=true" width="300" />
 </p>
