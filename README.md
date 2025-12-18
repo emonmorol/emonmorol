@@ -1,4 +1,4 @@
-# Hi there! This is Ekramul Hasan
+# Hi there! This is Ikramul Hasan Moral
 
 ### CS Undergrad & UGA | Software & Systems Developer | Building Real-World Projects
 
