@@ -12,7 +12,7 @@ I also enjoy problem-solving and competitive programming, and I’ve solved 500+
 ## 🌍 About Me
 
 -   📍 Based in **Dhaka, Bangladesh**
--   💻 Portfolio: [ihmorol.vercel.app](http://ihmorol.cv)
+-   💻 Portfolio: [ihmorol.cv](http://ihmorol.cv)
 -   📫 Email: [ihmorol@gmail.com](mailto:ihmorol@gmail.com)
 
 ---
